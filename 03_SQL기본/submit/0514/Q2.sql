@@ -1,4 +1,5 @@
 -- employees 테이블에서 진행
+use employees;
 
 -- titles 테이블의 데이터 출력하기
 select
