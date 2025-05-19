@@ -15,6 +15,18 @@
     <file url="file://$PROJECT_DIR$/03_SQL기본/submit/0514/Q2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/submit/0514/Q3.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/03_SQL기본/submit/0514/Q4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/0519_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/0519_2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/0519_3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/0519_4.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/01_tabledb/0519_5.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_employeesdb/0519_1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_employeesdb/0519_2.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/advanced/02_employeesdb/0519_3.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/01_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/02_dml.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/03_ddl.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/04_create_view.sql" dialect="MySQL" />
     <file url="PROJECT" dialect="MySQL" />
   </component>
 </project>
