@@ -27,6 +27,8 @@
     <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/02_dml.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/03_ddl.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/05_테이블_뷰_테이블스페이스/basic/01_tabledb/04_create_view.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/advanced/0520/01_sqldb.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/06_index/advanced/0520/02_sqldb.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/06_index/basic/01_sqldb/01_tbl1.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/06_index/basic/01_sqldb/02_tbl2.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/06_index/basic/01_sqldb/03_tbl3.sql" dialect="MySQL" />
